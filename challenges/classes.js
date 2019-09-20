@@ -46,5 +46,5 @@ const cube = new CubeMaker({
 console.log(cube.cubeVolume()); // Answer: 16
 console.log(cube.cubeSurfaceArea()); // Answer: 768
 
-//ASSIGNMENT: EASY 
+//ASSIGNMENT: NOT BAD AT ALL
 //MATH: OMG. MY BRAIN HURTS! -Kristian C.
